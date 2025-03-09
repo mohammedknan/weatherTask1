@@ -124,6 +124,3 @@ const SearchScreen: React.FC<SearchScreenProps> = ({ navigation, route }) => {
 
 export default SearchScreen;
 
-
-{/* <Text>Time: {results1.list[0].dt_txt.split(" ")[1]}</Text> */}
-{/* <Text>Time: {results1.list[0].dt_txt.split(" ")[1].slice(0, 5)}</Text> */}
